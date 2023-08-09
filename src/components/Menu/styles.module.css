@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.menu{
+    background-color: #718387;
+    padding: 20px;
+}
+
+.texto{
+    color: white;
+    font-size: 'Roboto';
+    list-style: none;
+    display: flex;
+    gap: 54px;
+    padding-left: 120px;
+}
+
+.link:hover{
+    color: #626c6e;
+}

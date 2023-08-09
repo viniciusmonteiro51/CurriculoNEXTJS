@@ -1,0 +1,18 @@
+.fundo{
+    width: 100%;
+    height: auto;
+    background:linear-gradient(96.79deg, rgba(72, 98, 136, 0.6) 0.75%,
+    rgba(72, 98, 136, 0.6) 0.76%, rgba(152, 51, 108, 0.6) 100%)
+    ,
+    url("/fundo.png") no-repeat;
+    background-size: 100% 100%;
+    min-height: 70vh;
+}
+
+
+
+.perfil{
+   
+    border-radius: 100px;
+    border: 3px solid #486288;
+}
